@@ -27,7 +27,8 @@
   to { transform: rotate(360deg); }
 }
 input{
-  max-width:100vh;
+ width:400px !important;
+ margin-right: 5px !important;
 }
 
 /*.bttn{
